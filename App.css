@@ -1,16 +1,1 @@
-body {
-  margin:0;
-  background:#000;
-}
 
-.home {
-  height:100vh;
-  display:flex;
-  justify-content:center;
-  align-items:center;
-}
-
-.home img {
-  max-width:100%;
-  max-height:100vh;
-}
